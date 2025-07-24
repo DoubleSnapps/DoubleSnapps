@@ -1,4 +1,4 @@
-# Java Programmer, Python Writer, C# Philosopher 
+# Java Programmer, Python Author, C# Philosopher 
 
 
 
